@@ -1,7 +1,8 @@
 # Hi 👋, I'm Angelina
 
-  <img width="600" height="408" alt="image" src="https://github.com/user-attachments/assets/7cc83365-c235-4c4d-b6f0-4aebebd1f273" />
-
+<p align="center">
+  <img width="600" height="408" src="https://github.com/user-attachments/assets/7cc83365-c235-4c4d-b6f0-4aebebd1f273" />
+</p>
 
 🎓 Computer Science Student at ST. Joseph's College of Engineering and Technology
 💻 Learning C, SQL, and Operating Systems  
