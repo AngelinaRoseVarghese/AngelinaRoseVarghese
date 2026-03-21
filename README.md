@@ -14,3 +14,6 @@
 
 ## 📫 Contact
 - Email: angelinarosevarghese@gmail.com
+
+![C](https://img.shields.io/badge/C-Programming-blue)
+![SQL](https://img.shields.io/badge/SQL-Database-orange)
