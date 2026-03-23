@@ -1,4 +1,4 @@
-# Hi 👋, I'm Angelina
+# Hi 👋, I'm Angelina Rose Varghese
 
 <p align="center">
   <img width="600" height="408" src="https://github.com/user-attachments/assets/7cc83365-c235-4c4d-b6f0-4aebebd1f273" />
