@@ -5,6 +5,7 @@
 </p>
 
 🎓 Computer Science Student at ST. Joseph's College of Engineering and Technology
+
 💻 Learning C, SQL, and Operating Systems  
 🚀 Beginner but improving every day  
 🎖️ NCC Cadet
@@ -18,7 +19,7 @@
 - Uniseat project in Java
 
 ## 📫 Contact
-- Email: angelinarosevarghese@gmail.com
+- Email: angelinarosevarghese2028@cs.sjcetpalai.ac.in
 
 ![C](https://img.shields.io/badge/C-Programming-blue)
 ![SQL](https://img.shields.io/badge/SQL-Database-orange)
